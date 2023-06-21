@@ -6,7 +6,7 @@
 
         <div class="flex justify-between mb-6">
             <h1 class="text-3xl">
-                Users
+                Users  from Github
             </h1>
 
              <input type="text" placeholder="search..." class="border px-2 rounded-lg"/>
